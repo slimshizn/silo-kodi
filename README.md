@@ -199,7 +199,12 @@ For example:
 http://192.168.1.50:8080
 ```
 
-You will then need to put in your username and password
+Then choose how to sign in:
+
+* **Sign in with a code:** Kodi shows an address and an eight-digit code. Open the address on your phone or computer, where you're already signed in to Silo, and enter the code. Kodi never asks for a password, so this also works for accounts that sign in through OIDC, LDAP or another provider.
+* **Sign in with username and password:** enter them on the Kodi device.
+
+Kodi offers the choice only when your server supports both. A server without code sign-in goes straight to username and password, and a server that doesn't accept passwords goes straight to the code.
 
 ---
 
