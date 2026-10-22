@@ -16,7 +16,7 @@ https://discord.gg/fNrAH8BG6
 
 ## Kodi Repository Address
 
-https://liam8888999.github.io/silo-kodi/
+https://slimshizn.github.io/silo-kodi/
 
 ---
 
@@ -92,7 +92,7 @@ Add source
 Enter the following address:
 
 ```text
-https://liam8888999.github.io/silo-kodi/
+https://slimshizn.github.io/silo-kodi/
 ```
 
 For the name, enter:
@@ -134,10 +134,10 @@ You should see the repository ZIP file.
 Select the ZIP file, for example:
 
 ```text
-repository.silo-kodi-1.0.2.zip
+repository.slimshizn.silo-kodi-1.0.0.zip
 ```
 
-Kodi will install the **Silo Kodi Repository** directly from the hosted repository.
+Kodi will install the **Silo Kodi (slimshizn)** repository directly from the hosted repository.
 
 > **You do not need to download or extract the ZIP file manually.**
 
@@ -156,7 +156,7 @@ Add-ons
 Select:
 
 ```text
-Silo Kodi Repository
+Silo Kodi (slimshizn)
 ```
 
 Then select the **Silo** add-on and choose:
@@ -260,7 +260,7 @@ If automatic add-on updates are enabled in Kodi, updates may be installed automa
 
 The repository is hosted at:
 
-https://liam8888999.github.io/silo-kodi/
+https://slimshizn.github.io/silo-kodi/
 
 ---
 
@@ -271,7 +271,7 @@ https://liam8888999.github.io/silo-kodi/
 Make sure the File Manager source was added correctly:
 
 ```text
-https://liam8888999.github.io/silo-kodi/
+https://slimshizn.github.io/silo-kodi/
 ```
 
 The source should be named:
@@ -372,7 +372,7 @@ The repository contains the metadata required for Kodi to discover and install t
 
 The repository is hosted using GitHub Pages:
 
-**https://liam8888999.github.io/silo-kodi/**
+**https://slimshizn.github.io/silo-kodi/**
 
 Kodi uses the repository to:
 

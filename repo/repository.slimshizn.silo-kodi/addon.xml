@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.slimshizn.silo-kodi" name="Silo Kodi (slimshizn)" version="1.0.0" provider-name="slimshizn">
+    <extension point="xbmc.addon.repository" name="Silo Kodi (slimshizn)">
+      <dir>
+          <info compressed="false">https://raw.githubusercontent.com/slimshizn/silo-kodi/master/repo/zips/addons.xml</info>
+          <checksum>https://raw.githubusercontent.com/slimshizn/silo-kodi/master/repo/zips/addons.xml.md5</checksum>
+          <datadir zip="true">https://raw.githubusercontent.com/slimshizn/silo-kodi/master/repo/zips/</datadir>
+      </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Silo add-on for Kodi (slimshizn build)</summary>
+        <description>Builds of the Silo Kodi add-on from github.com/slimshizn/silo-kodi.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
